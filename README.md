@@ -1,5 +1,9 @@
 # AetherionLib
 
+<p align="center">
+  <img src="IMG_3209.png" alt="AetherionLib Logo" width="200">
+</p>
+
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 AetherionLib is the core library required to run all of my other projects.  
@@ -21,3 +25,4 @@ Clone the repository and include it in your project:
 
 ```bash
 git clone https://github.com/your-username/AetherionLib.git
+
